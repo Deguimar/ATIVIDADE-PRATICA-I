@@ -1,7 +1,9 @@
-🏋️ Sistema de Gestão de Treinos (POO II)
+<h1>🏋️ Sistema de Gestão de Treinos (POO II)</h1>
+
 Este projeto é uma aplicação de console desenvolvida em C# para a disciplina de Programação Orientada a Objetos II. O objetivo principal é gerenciar exercícios de musculação utilizando o conceito de listas paralelas e manipulação de dados com LINQ.
 
-🎯 Objetivos da Atividade
+<h2>🎯 Objetivos da Atividade</h2>
+
 Implementar e manipular coleções do tipo List<T>.
 
 Aplicar consultas e filtros utilizando LINQ.
@@ -12,7 +14,7 @@ Utilizar estruturas de repetição (do-while) e decisão (switch/case).
 
 Organizar o código em métodos para garantir clareza e manutenção.
 
-🚀 Funcionalidades
+<h2>🚀 Funcionalidades</h2>
 O sistema oferece um menu interativo com as seguintes opções:
 
 Adicionar Exercício: Cadastro com validação de nome, carga (≥ 0) e repetições (≥ 1).
@@ -29,7 +31,7 @@ Exibir Mais Pesado: Identifica o exercício com a maior carga.
 
 Remover Exercício: Exclusão sincronizada em todas as listas paralelas.
 
-🛠️ Tecnologias Utilizadas
+<h2>🛠️ Tecnologias Utilizadas</h2>
 Linguagem: C#
 
 Framework: .NET
